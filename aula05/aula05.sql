@@ -7,10 +7,10 @@
 \l
 
 -- criar um novo banco de dados
-create database aula05ni;
+create database aula05_ni;
 
 -- conectar a um banco de dados
-\c aula05ni
+\c aula05_ni
 
 -- DDL
 
