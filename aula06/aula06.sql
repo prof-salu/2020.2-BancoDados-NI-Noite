@@ -68,7 +68,8 @@ INSERT INTO bens VALUES (204, 'Apartamento', 'imovel', 320000, 103);
 INSERT INTO bens VALUES (205, 'Sítio', 'imovel', 70000, 104);
 
 -- Insert multiplo
-INSERT INTO bens VALUES (206, 'Carro', 'movel', 32000, 101),
+INSERT INTO bens VALUES 
+(206, 'Carro', 'movel', 32000, 101),
 (207, 'Moto', 'movel', 18000, 102),
 (208, 'Casa', 'imovel', 250000, 101),
 (209, 'Apartamento', 'imovel', 320000, 103),
